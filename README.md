@@ -1,6 +1,8 @@
-### Howdy! I'm Ben, a data scientist writing code for social good.
+### Yo! I'm Ben, a data scientist writing code for social good.
 
-Reach out to me if you're interested in working on a climate risk webapp, microfinance platform, or a transit accessibility app!
+I'm just here so I won't get fined.
+Reach out to me if you're interested in working on climate risk model communication, or an effective altruism webapp.
+
 
 <!--
 **bklosk/bklosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
