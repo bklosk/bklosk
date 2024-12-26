@@ -1,4 +1,3 @@
-### Heyo. I'm Ben, I write code for social good.
+Hi! I'm Ben!
 
-Reach out to me if you're interested in working on climate risk model communication, or an effective altruism webapp.
-I do fullstack which means I am good at google and bad at programming
+I used to be in training to be a cop. I went to grad school for econ. Now, I make weird art and code for social good.
